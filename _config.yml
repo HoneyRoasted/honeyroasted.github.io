@@ -1,2 +1,4 @@
 theme: jekyll-theme-cayman
 title: Honey Roasted
+description: A Programming Language Design Toolset for the JVM
+show_downloads: true

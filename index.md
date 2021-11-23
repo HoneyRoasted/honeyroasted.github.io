@@ -9,3 +9,5 @@ An organized place to put all my programming language design projects.
 ## Projects
 
 - [JavaType](javatype/landing.md)
+---
+[Home](index.md) | [Contact](contact.md)
