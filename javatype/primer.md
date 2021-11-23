@@ -1,3 +1,5 @@
+# JavaType Primer
+
 ## Definitions
 Below are some definitions of the names used in the library.
 ### Type Parameter
