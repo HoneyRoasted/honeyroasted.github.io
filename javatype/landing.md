@@ -1,6 +1,8 @@
 # JavaType
 
 - [Repository](https://github.com/HoneyRoasted/JavaType)
+- [JavaDocs](https://honeyroasted.github.io/JavaType/)
+- [Primer](primer.md)
 
 ## About
 
