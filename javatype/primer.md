@@ -65,5 +65,6 @@ Additionally, every `Type` has the following methods:
 Finally, `TypeInformal` has the method `TypeInformal#isAssignableTo` to determine if one type is assignable to another.
 This is determined by how the java compiler allows types to be assigned, and is intended to be consistent with it. If you
 discover an inconsistency, please create an issue.
+
 ---
 [Home](../index.md) | [Contact](../contact.md)
