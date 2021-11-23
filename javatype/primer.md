@@ -1,4 +1,4 @@
-# JavaType Primer
+# [JavaType](landing.md) Primer
 
 ## Definitions
 Below are some definitions of the names used in the library.
