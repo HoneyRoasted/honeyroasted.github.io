@@ -4,7 +4,7 @@
 
 ## Purpose
 
-An organized place to put all my programming language desing projects.
+An organized place to put all my programming language design projects.
 
 ## Projects
 
