@@ -1,6 +1,5 @@
 # Contact
-Hi! I'm [SocraticPhoenix](https://github.com/SocraticPhoenix), a self-taught Java programmer with an interest in JVM bytecode
-and programming language design. You can contact me:
+Hi! I'm [SocraticPhoenix](https://github.com/SocraticPhoenix), a software developer and Java enthusiast. You can contact me:
 
 - By email, at `socraticphoenix@gmail.com`
 - Through discord, at `SocraticPhoenix#8468`
