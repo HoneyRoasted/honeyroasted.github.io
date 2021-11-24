@@ -1,7 +1,6 @@
 # [JavaType](landing.md) Primer
 
 ## Definitions
-Below are some definitions of the names used in the library.
 ### Type Parameter
 A Type parameter is a type variable appearing in either a class or method declaration. For example:
 ```java
@@ -46,6 +45,8 @@ In the library, "TypeInformal" means any type that can be:
 
 This includes references to type variables, arrays, types with generic arguments,
 and wildcards.
+
+---
 
 ## Usage
 The entire library can be accessed through the `Types` class. This class has constants for all primitive types and their boxing types, as well as methods for:
