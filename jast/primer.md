@@ -1,4 +1,4 @@
-#[JAST](landing.md) Primer
+# [JAST](landing.md) Primer
 
 TODO
 
