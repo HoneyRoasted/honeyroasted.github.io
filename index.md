@@ -11,7 +11,7 @@ which utilizes the type system implementation).
 
 ## Projects
 
-- [JavaType](javatype/landing.md) - Java type system implementation
+- [Jype](jype/landing.md) - Java type system implementation
 - [Fill](fill/landing.md) - Simple java injection library
 - [Cello](cello/landing.md) - Java bytecode instrumentation library
 
