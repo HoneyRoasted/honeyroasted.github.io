@@ -34,11 +34,11 @@ Injector.builder()
         .bind(int.class).toInstance(42)
         .build();
 ```
-The builder also supports using generics from the [JavaType](../javatype/landing.md) library, so an injector which binds all
+The builder also supports using generics from the [Jype](../jype/landing.md) library, so an injector which binds all
 injectable `List<String>`s to `{"Hello", "World"}` might look like this:
 ```java
 Injector.builder()
-        .bind(new Token<List<String>>() {}.resolve()).toInstance(Arrays.asList("Hello", "World"))
+        .bind(new TypeToken<List<String>>() {}).toInstance(List.of("Hello", "World"))
         .build();
 ```  
 You can also bind to a type and a target annotation, so an injector which binds `int`s annotated with `@MeaningOfLife` might
