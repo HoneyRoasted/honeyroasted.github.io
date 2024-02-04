@@ -30,21 +30,21 @@ An injector takes a binding and uses it to actually carry out the injections.
 Unless you need to do something particularly fancy, most injection can be carried out using `Injector.builder()`. For example,
 an injector which binds all injectable `int`s to the value `42` would look like this:
 ```java
-Injector.builder()
+ReflectionInjector.builder()
         .bind(int.class).toInstance(42)
         .build();
 ```
 The builder also supports using generics from the [Jype](../jype/landing.md) library, so an injector which binds all
 injectable `List<String>`s to `{"Hello", "World"}` might look like this:
 ```java
-Injector.builder()
+ReflectionInjector.builder()
         .bind(new TypeToken<List<String>>() {}).toInstance(List.of("Hello", "World"))
         .build();
 ```  
 You can also bind to a type and a target annotation, so an injector which binds `int`s annotated with `@MeaningOfLife` might
 look like this:
 ```java
-Injector.builder()
+ReflectionInjector.builder()
         .bind(int.class, MeaningOfLife.class).toInstance(42)
         .build();
 ```
