@@ -11,9 +11,11 @@ which utilizes the type system implementation).
 
 ## Projects
 
+- [Collect](collect/landing.md) - Some basic collection utilities used in other projects
+- [Almonds](almonds/landing.md) - Super simple constraint solving framework 
 - [Jype](jype/landing.md) - Java type system implementation
 - [Fill](fill/landing.md) - Simple java injection library
-- [Cello](cello/landing.md) - Java bytecode instrumentation library
+- [Cashews](Cashews/landing.md) - Java bytecode instrumentation library
 
 ---
 [Home](index.md) | [Contact](contact.md)
