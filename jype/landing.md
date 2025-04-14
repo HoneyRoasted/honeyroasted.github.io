@@ -1,7 +1,7 @@
 # Jype
 
 - [Repository](https://github.com/HoneyRoasted/Jype)
-- [JavaDocs](https://honeyroasted.github.io/Jype/)
+- [JavaDocs](https://honeyroasted.github.io/Jype/jype-main)
 - [Primer](primer.md)
 
 ## About
