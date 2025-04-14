@@ -38,7 +38,7 @@ The builder also supports using generics from the [Jype](../jype/landing.md) lib
 injectable `List<String>`s to `{"Hello", "World"}` might look like this:
 ```java
 ReflectionInjector.builder()
-        .bind(new TypeToken<List<String>>() {}).toInstance(List.of("Hello", "World"))
+        .bind(new JTypeToken<List<String>>() {}).toInstance(List.of("Hello", "World"))
         .build();
 ```  
 You can also bind to a type and a target annotation, so an injector which binds `int`s annotated with `@MeaningOfLife` might
